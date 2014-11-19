@@ -79,6 +79,31 @@ button.cupid-green:active {
 
 /* lynne's button
 *********************************************************************************/
-.button.orange-you-glad {
-
+button.orange-you-glad {
+    background-color: orangered;
+    border-radius: 50%;
+    padding: 3.5rem 1rem;
+    font: bold 2rem Geneva, Verdana, sans-serif;
+    background-color:#ff9021;
+    background-image: -moz-radial-gradient(50% 50%, circle closest-side, #ff9021, #e87b27 90%);
+    background-image: -webkit-radial-gradient(50% 50%, circle closest-side, #ff9021, #e87b27 90%);
+    background-image: -o-radial-gradient(50% 50%, circle closest-side, #ff9021, #e87b27 90%);
+    background-image: -ms-radial-gradient(50% 50%, circle closest-side, #ff9021, #e87b27 90%);
+    background-image: radial-gradient(50% 50%, circle closest-side, #ff9021, #e87b27 90%)
+}
+button.orange-you-glad:hover {
+    background-color:#ff952b;
+    background-image: -moz-radial-gradient(50% 50%, circle closest-side, #ff952b, #e8853a 90%);
+    background-image: -webkit-radial-gradient(50% 50%, circle closest-side, #ff952b, #e8853a 90%);
+    background-image: -o-radial-gradient(50% 50%, circle closest-side, #ff952b, #e8853a 90%);
+    background-image: -ms-radial-gradient(50% 50%, circle closest-side, #ff952b, #e8853a 90%);
+    background-image: radial-gradient(50% 50%, circle closest-side, #ff952b, #e8853a 90%)
+}
+button.orange-you-glad:active {
+    background-color:#ff8a14;
+    background-image: -moz-radial-gradient(50% 50%, circle closest-side, #ff8a14, #e86e10 90%);
+    background-image: -webkit-radial-gradient(50% 50%, circle closest-side, #ff8a14, #e86e10 90%);
+    background-image: -o-radial-gradient(50% 50%, circle closest-side, #ff8a14, #e86e10 90%);
+    background-image: -ms-radial-gradient(50% 50%, circle closest-side, #ff8a14, #e86e10 90%);
+    background-image: radial-gradient(50% 50%, circle closest-side, #ff8a14, #e86e10 90%)
 }
